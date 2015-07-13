@@ -1,0 +1,71 @@
+div.bg_container{
+	background-image: url("assets/quora.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.logo {
+  float: none;
+  margin: auto;
+  width: 160px;
+  height: 100px;
+  background-size: 160px 100px;
+  background-image: url(https://qsf.is.quoracdn.net/-6b3c63e23a5ee226.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 56px;
+}
+
+.tagline {
+  float: none;
+  text-align: center;
+  margin-left: 16px;
+  margin-top: 10px;
+  margin-bottom: 16px;
+  font-size: 19px;
+  line-height: 1.3;
+  color: rgba(175,175,175,0.95);
+  -webkit-font-smoothing: antialiased;
+}
+
+#signin {
+  box-sizing: border-box;
+  width: 50%;
+  height: 300px;
+  padding-bottom: 30px;
+  padding: 22px;
+  border-radius: 3px;
+  background: #fff;
+  border: 1px solid #dcdcdc;
+  box-shadow: 0 2px 4px 0 #dcdcdc;
+  margin-top: 0;
+}
+.container .login {
+  float: left;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 50%;
+}
+
+.container .signup {
+  float: left;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 50%;
+}
+#ggl {
+    padding-left: 50px;
+    background-color: red;
+    
+}
+
+#twt {
+    padding-left: 45px;
+}
+
+#fb {
+    padding-left: 28px;
+}
